@@ -1,0 +1,108 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#one{
+    background-color: rgb(252, 252, 252);
+    height: 60px;
+    width: 100vw;
+    display: flex;
+}
+#two{
+    background-color: rgb(252, 252, 252);
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+#in{
+    margin: 10px;
+    border: 1px solid black;
+    height: 30px;
+}
+ img{
+   height: 30px;
+    background-color: rgb(90, 88, 88) !important;
+    color: aliceblue !important;
+    width: 30px;
+    margin-top:10px;
+    margin-left: -14px;
+}
+#en{
+    margin-left: 40px !important;
+    text-align: center;
+    margin: 10px;
+    border: 1px solid black;
+    height: 30px;
+}
+.head{
+    font-size:x-large;
+    align-self: center;
+    color: rgb(48, 46, 46);
+    margin-left: 50px;
+}
+#list{
+    list-style: none;
+    display: flex;
+    margin-left: -29px;
+    margin-top: 12px;
+    font-size: large;
+
+}
+li{
+    margin-left: 40px;
+   font-weight: bold;
+}
+#uone{
+    list-style: none;
+    display: flex;
+    margin-left: 15px;
+    margin-top: 15px; 
+}
+#red{
+    color: rgb(196, 16, 16);
+}
+.bg{
+    background-image:url("https://www.eventkingdom.com/img/rd/start/moods/170323/philharmoniker_de.webp");
+    height:88vh ;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    width: 100vw;
+}
+#TEXT{
+    height: 100px;
+    width: 500px;
+    margin-left: 700px;
+    padding-top: 50px;
+}
+.bt{
+    margin-left: 700px;
+    padding-top: 130px;
+}
+p{
+    height: 100px;
+    width: 400px;
+    margin-left:700px ;
+    padding-top: 100px;
+}
+.card{
+    height: 400px;
+    width: 350px;
+    border: 6px solid gray;
+    padding: 30px !important;
+    margin-top: 20px;
+    margin-left: 10px;
+    align-items: center;
+    display: flex;
+    box-shadow: 1px 1px 5px;
+}
+#im{
+    height: 300px;
+    width: 250px;
+}
+.ccc{
+    display: flex;
+    justify-content: space-around;
+}
